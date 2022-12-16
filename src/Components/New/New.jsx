@@ -9,7 +9,7 @@ export default function New(props) {
         )
     })
     return(
-        <div className="flex flex-col divide-y  h-full  divide-gray-700">
+        <div className="flex flex-col divide-y h-full  divide-gray-700">
         {info}
         </div>
     )
